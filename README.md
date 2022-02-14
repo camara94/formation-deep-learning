@@ -23,3 +23,6 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    Grâce aux gradients, on peut alors mettre à jour les **paramètres (w, b)** de **chaque couche** de telle sorte à ce qu'ils **minimisent** l'erreur entre **la sortie** du modèle et la **réponse attendue**.
 
    ![image](images/3.png)
+
+   ## Résumé 
+   Pour développer et entrainer un **Réseau de Neurones Artificiels**, on répète en boucle les quatre étapes suivantes:
