@@ -1,8 +1,11 @@
 # formation-deep-learning
 Les bases du Deep Learning en Intelligence Artificielle.
 
+
 ## Forward Propagation
-   
+   Consiste à faire circuler les données de la **première couche** jusqu'à la **dernière couche** pour afin produire une sortie **y**.
+
+   ![image](images/4.png)
 ## Cost Function
 
 ## Backward Propagation
