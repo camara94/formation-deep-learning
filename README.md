@@ -8,6 +8,9 @@ Les bases du Deep Learning en Intelligence Artificielle.
    ![image](images/4.png)
 ## Cost Function
 
+Elle permet de calculer la moyenne des erreurs de notre modèle.
+
+![image](images/5.png)
 ## Backward Propagation
 
    Qui consiste à determiner comment la **sortie du réseau** varie
