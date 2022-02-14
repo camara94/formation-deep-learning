@@ -18,9 +18,8 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ![image](images/2.png)
 
+## Gradient Descent
+
    Grâce aux gradients, on peut alors mettre à jour les **paramètres (w, b)** de **chaque couche** de telle sorte à ce qu'ils **minimisent** l'erreur entre **la sortie** du modèle et la **réponse attendue**.
 
    ![image](images/3.png)
-
-## Gradient Descent
-   
