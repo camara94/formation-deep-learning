@@ -26,3 +26,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ## Résumé 
    Pour développer et entrainer un **Réseau de Neurones Artificiels**, on répète en boucle les quatre étapes suivantes:
+
+   ![image](images/6.png)
