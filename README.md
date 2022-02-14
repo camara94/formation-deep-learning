@@ -13,6 +13,7 @@ Les bases du Deep Learning en Intelligence Artificielle.
 
 ## Perceptron Multi-Couche
 
+![image](images/10.png)
 
 ## Forward Propagation
    Consiste à faire circuler les données de la **première couche** jusqu'à la **dernière couche** pour afin produire une sortie **y**.
