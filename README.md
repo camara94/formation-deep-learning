@@ -16,6 +16,7 @@ Les bases du Deep Learning en Intelligence Artificielle.
 ![image](images/10.png)
 
 ## Forward Propagation
+
    Consiste à faire circuler les données de la **première couche** jusqu'à la **dernière couche** pour afin produire une sortie **y**.
 
    ![image](images/4.png)
@@ -41,3 +42,8 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    Pour développer et entrainer un **Réseau de Neurones Artificiels**, on répète en boucle les quatre étapes suivantes:
 
    ![image](images/6.png)
+
+   ## Le Perceptron
+
+   ![image](images/11.png)
+   
