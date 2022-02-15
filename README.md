@@ -72,3 +72,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ![image](images/18.png)
 
    ![image](images/19.png)
+
+   ## Résumé d'un Neurone
+
+   ![image](images/20.png)
