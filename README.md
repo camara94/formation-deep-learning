@@ -146,6 +146,10 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
 ![image](images/39.png)
 
-* Si la dérivée est est négative ça nous indique que la diminue lorsque **w** augmente.
+* Si la dérivée est négative ça nous indique que la dérivée diminue lorsque **w** augmente.
 
 ![image](images/40.png)
+
+* Si la dérivée est positive ça nous indique que la dérivé augmente lorsque **w** augmente.
+
+![image](images/41.png)
