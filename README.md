@@ -127,3 +127,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ![image](images/34.png)
 
+  Pour la formule de log loss:
+  Au fait on veut maximiser la vraisemblance or en mathématique il n'existe pas de fonction de maximisation mais il n'existe que des fonctions de minimisation par conséquent on essaie de prendre l'inverse de la fonction de minisation. C'est à dire qu'on multiplie par (-1) puis on normalise par (1/m).
+
+  ![image](images/35.png)
