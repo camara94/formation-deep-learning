@@ -103,7 +103,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ![image](images/27.png)
 
-   ### Problème de la Vraisemblance
+   ### Problème de la Vraisemblance 1
    
    Comme les probabilités sont des nombres inférieure à 0, alors plus on fait le produit des nombres inférieur à 0 plus on tend vers 0.
 
