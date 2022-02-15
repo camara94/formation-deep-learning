@@ -64,5 +64,9 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
       ![image](images/16.png)
 
    Exemple 2:
-   
+
       ![image](images/17.png)
+
+   ## La Loi de Bernoulli
+
+   ![image](images/18.png)
