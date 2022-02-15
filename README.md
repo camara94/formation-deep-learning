@@ -80,3 +80,13 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ## La Fonction Coût
 
    ![image](images/21.png)
+
+   ## Démonstration de la Fonction Coût
+
+   ### Vraisemblance
+
+   ![image](images/22.png)
+
+   Exemple: Si une plante est toxique et que notre modèle nous donne une probabilité de 0.8
+
+   ![image](images/23.png)
