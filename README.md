@@ -102,3 +102,9 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    * Sinon si le résultat de notre modèle est proche de 0% ce qui signifie que notre modèle à une vraisemblable proche de 0%
 
    ![image](images/27.png)
+
+   ### Problème de la Vraisemblance
+   
+   Comme les probabilités sont des nombres inférieure à 0, alors plus on fait le produit des nombres inférieur à 0 plus on tend vers 0.
+
+   ![image](images/28.png)
