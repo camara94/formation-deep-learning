@@ -153,3 +153,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 * Si la dérivée est positive ça nous indique que la dérivé augmente lorsque **w** augmente.
 
 ![image](images/41.png)
+
+* **Descente de Gradient**
+
+![image](images/42.png)
