@@ -133,3 +133,8 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
   ![image](images/35.png)
 
   ![image](images/36.png)
+
+  ## Origine de Log Loss
+  La fonction **Log Loss** elle tire son origine de la maximisation de la vraisemblance(**Likelihood**)
+
+  
