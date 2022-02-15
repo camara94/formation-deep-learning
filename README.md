@@ -50,3 +50,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ## Modèle Linéaire
 
    ![image](images/12.png)
+
+   ![image](images/13.png)
