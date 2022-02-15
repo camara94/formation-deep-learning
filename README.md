@@ -120,4 +120,8 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ![image](images/32.png)
 
    Cela signifie que lorsqu'on cherche le maximum de nos  vraisemblances, il sufit de chercher le maximum du log de la vraisemblance. voir graphique
+   
+   ![image](images/33.png)
+   
+   
 
