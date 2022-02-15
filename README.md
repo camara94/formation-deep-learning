@@ -70,3 +70,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ## La Loi de Bernoulli
 
    ![image](images/18.png)
+
+   ![image](images/19.png)
