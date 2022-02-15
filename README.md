@@ -98,3 +98,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    * Si le résultat de notre modèle est proche de 100% ce qui signifie que notre modèle à une vraisemblable proche de 100%
 
    ![image](images/26.png)
+
+   * Sinon si le résultat de notre modèle est proche de 0% ce qui signifie que notre modèle à une vraisemblable proche de 0%
+
+   ![image](images/27.png)
