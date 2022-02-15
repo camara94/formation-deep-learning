@@ -76,3 +76,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ## Résumé d'un Neurone
 
    ![image](images/20.png)
+
+   ## La Fonction Coût
+
+   ![image](images/21.png)
