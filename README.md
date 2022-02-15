@@ -56,5 +56,9 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ![image](images/14.png)
 
    La fonction de faire cette transformation en probabilité est appélée **Sigmoïd**
-   
+
    ![image](images/15.png)
+
+   Exemple 1:
+
+   ![image](images/16.png)
