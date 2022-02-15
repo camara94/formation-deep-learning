@@ -90,3 +90,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    Exemple: Si une plante est toxique et que notre modèle nous donne une probabilité de 0.8
 
    ![image](images/23.png)
+
+   Alors pour calculer la vraisemblance de notre modèle nous allons nous servir  de la loi de **Bernoulli**
+
+   ![image](images/24.png)
