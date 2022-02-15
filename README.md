@@ -111,6 +111,6 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ![image](images/29.png)
 
-   Pour eviter que la vraisemblance de notre modèle ne converse vers 0, on l'application le logarithme.
+   Pour eviter que la vraisemblance de notre modèle ne converse vers 0, on l'applique le logarithme.
 
-   ![image](images/30.png)
+   ![image](images/31.png)
