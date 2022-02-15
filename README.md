@@ -52,3 +52,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    ![image](images/12.png)
 
    ![image](images/13.png)
+
+   ![image](images/14.png)
