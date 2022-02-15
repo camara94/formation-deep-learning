@@ -141,3 +141,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Descent de Gradient
 
 ![image](images/38.png)
+
+## Gradient de Descent en Mathématique
