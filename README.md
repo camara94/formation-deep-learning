@@ -123,5 +123,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    
    ![image](images/33.png)
    
-   
+   Alors par deduction on aura:
+
+   ![image](images/34.png)
 
