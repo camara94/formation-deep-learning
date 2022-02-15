@@ -103,10 +103,14 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ![image](images/27.png)
 
-   ### Problème de la Vraisemblance 1
+   ### Problème de la Vraisemblance 
    
    Comme les probabilités sont des nombres inférieure à 0, alors plus on fait le produit des nombres inférieur à 0 plus on tend vers 0.
 
    ![image](images/28.png)
 
    ![image](images/29.png)
+
+   Pour eviter que la vraisemblance de notre modèle ne converse vers 0, on l'application le logarithme.
+
+   ![image](images/30.png)
