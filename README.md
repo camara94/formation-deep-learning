@@ -93,4 +93,4 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    Alors pour calculer la vraisemblance de notre modèle nous allons nous servir  de la loi de **Bernoulli**
 
-   ![image](images/24.png)
+   ![image](images/25.png)
