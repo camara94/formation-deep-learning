@@ -94,3 +94,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
    Alors pour calculer la vraisemblance de notre modèle nous allons nous servir  de la loi de **Bernoulli**
 
    ![image](images/25.png)
+
+   * Si le résultat de notre modèle est proche de 100% ce qui signifie que notre modèle à une vraisemblable proche de 100%
+
+   ![image](images/26.png)
