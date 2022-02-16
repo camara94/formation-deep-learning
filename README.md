@@ -165,3 +165,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Pratique Cours Suivant
 
 ![image](images/44.png)
+
+## Quelques dérivées Utiles pour le Cours
+
+![image](images/45.png)
