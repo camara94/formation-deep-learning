@@ -157,3 +157,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 * **Descente de Gradient**
 
 ![image](images/42.png)
+
+* en répetant cette formule, le gradient descent jusqu'au minimum de notre fonction.
+
+![image](images/43.png)
