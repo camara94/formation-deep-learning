@@ -163,3 +163,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ![image](images/43.png)
 
 ## Pratique Cours Suivant
+
+![image](images/44.png)
