@@ -161,3 +161,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 * en répetant cette formule, le gradient descent jusqu'au minimum de notre fonction.
 
 ![image](images/43.png)
+
+## Pratique Cours Suivant
