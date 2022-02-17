@@ -267,3 +267,5 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 ### Vectorisation des Gradients
 
 ![image](images/73.png)
+
+![image](images/74.png)
