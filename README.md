@@ -260,4 +260,6 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/71.png)
 
+* Au en Python, il nous reste qu'à calculer W et B.
 
+![image](images/72.png)
