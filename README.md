@@ -199,3 +199,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Les Opérations Matricielles à Connaître en Deep Learning
 
 ![image](images/52.png)
+
+### Les Additions 
+
+![image](images/53.png)
