@@ -227,3 +227,9 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable dépendante.
 
 ![image](images/61.png)
+
+## Vectorisation du Dataset
+
+![image](images/62.png)
+
+
