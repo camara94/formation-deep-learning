@@ -287,3 +287,7 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 Pour développer notre modèle, nous allons partir d'un dataset de 100 ligne de x1, x2 et y.
 
 ![image](images/82.png)
+
+### Process de Travail en Python
+
+![image](images/83.png)
