@@ -281,3 +281,9 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 ![image](images/80.png)
 
 ![image](images/81.png)
+
+## Modèle
+
+Pour développer notre modèle, nous allons partir d'un dataset de 100 ligne de x1, x2 et y.
+
+![image](images/82.png)
