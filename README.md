@@ -173,3 +173,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Demonstration de la Descente de Gradient
 
 ![image](images/gradient_descente_demo.jpg)
+
+## Vectorisation
+
+![image](images/46.png)
