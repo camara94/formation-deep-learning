@@ -211,3 +211,6 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ### 3. La Multiplication
 
 ![image](images/56.png)
+
+![image](images/57.png)
+
