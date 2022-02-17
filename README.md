@@ -240,4 +240,9 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/64.png)
 
+### Vectorisation de A
+
+![image](images/65.png)
+
+
 
