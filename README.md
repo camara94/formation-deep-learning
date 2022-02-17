@@ -214,3 +214,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
 ![image](images/57.png)
 
+
+### Exercice
+
+![image](images/58.png)
