@@ -236,3 +236,8 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/63.png)
 
+### Vectorisons nos Equations
+
+![image](images/64.png)
+
+
