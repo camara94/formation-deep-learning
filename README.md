@@ -223,3 +223,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
 ![image](images/59.png)
 
+## Dataset 
+A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable dépendante.
+
+![image](images/60.png)
