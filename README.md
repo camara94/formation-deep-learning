@@ -252,6 +252,8 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/68.png)
 
+### Vectorisation de la Descente de Gradient
 
+![image](images/69.png)
 
 
