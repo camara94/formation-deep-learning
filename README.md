@@ -244,5 +244,10 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/65.png)
 
+### Vectorisation de la Fonction Coût
+
+![image](images/66.png)
+
+
 
 
