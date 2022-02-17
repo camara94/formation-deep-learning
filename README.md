@@ -221,3 +221,5 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
 ## Vectorisation des Equations de Deep Learning
 
+![image](images/59.png)
+
