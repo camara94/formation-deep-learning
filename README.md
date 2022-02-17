@@ -191,3 +191,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Matrices
 
 ![image](images/50.png)
+
+## Exemple 
+
+![image](images/51.png)
