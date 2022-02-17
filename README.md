@@ -187,3 +187,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Utilité des Vecteurs
 
 ![image](images/49.png)
+
+## Matrices
+
+![image](images/50.png)
