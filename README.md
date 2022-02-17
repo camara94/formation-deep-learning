@@ -256,4 +256,6 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 
 ![image](images/69.png)
 
+![image](images/70.png)
+
 
