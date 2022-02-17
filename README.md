@@ -169,3 +169,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Quelques dérivées Utiles pour le Cours
 
 ![image](images/45.png)
+
+## Demonstration de la Descente de Gradient
+
+![image](images/gradient_descente_demo.jpg)
