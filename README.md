@@ -179,3 +179,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ![image](images/46.png)
 
 ![image](images/47.png)
+
+## Exemple en Python
+
+![image](images/48.png)
