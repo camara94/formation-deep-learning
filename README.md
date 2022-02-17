@@ -195,3 +195,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 ## Exemple 
 
 ![image](images/51.png)
+
+## Les Opérations Matricielles à Connaître en Deep Learning
+
+![image](images/52.png)
