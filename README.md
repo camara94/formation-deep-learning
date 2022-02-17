@@ -200,10 +200,14 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
 ![image](images/52.png)
 
-### Les Additions  et Soustractions
+### 1. Les Additions  et Soustractions
 
 ![image](images/53.png)
 
-### La Transposition
+### 2. La Transposition
 
 ![image](images/54.png)
+
+### 3. La Multiplication
+
+![image](images/55.png)
