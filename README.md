@@ -61,11 +61,11 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    Exemple 1:
 
-      ![image](images/16.png)
+   ![image](images/16.png)
 
    Exemple 2:
 
-      ![image](images/17.png)
+   ![image](images/17.png)
 
    ## La Loi de Bernoulli
 
