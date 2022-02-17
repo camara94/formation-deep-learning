@@ -263,3 +263,7 @@ A la base, on a un Dataset de de x1 et x2 variables indépendantes et y variable
 * Au en Python, il nous reste qu'à calculer W et B.
 
 ![image](images/72.png)
+
+### Vectorisation des Gradients
+
+![image](images/73.png)
