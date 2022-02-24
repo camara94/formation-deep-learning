@@ -362,3 +362,7 @@ Voici les trois points les plus importants à retenir:
 ![image](images/100.png)
 
 ![image](images/101.png)
+
+* On determine la dérivée partielle de L par rapport A
+  
+  ![image](images/102.png)
