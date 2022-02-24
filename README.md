@@ -105,7 +105,7 @@ Elle permet de calculer la moyenne des erreurs de notre modèle.
 
    ### Problème de la Vraisemblance 
    
-   Comme les probabilités sont des nombres inférieure à 0, alors plus on fait le produit des nombres inférieur à 0 plus on tend vers 0.
+   Comme les probabilités sont des nombres inférieure à 1, alors plus on fait le produit des nombres inférieur à 1 plus on tend vers 0.
 
    ![image](images/28.png)
 
@@ -308,3 +308,4 @@ Pour créer un réseau de neurones, nous allons ajouter un second neurone à cô
 ## Deuxième Couche
 
 ![image](images/87.png)
+=======
