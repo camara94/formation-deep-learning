@@ -354,3 +354,7 @@ Voici les trois points les plus importants à retenir:
 ![image](images/97.png)
 
 ![image](images/98.png)
+
+## Back-Propagation 
+
+![image](images/99.png)
