@@ -334,3 +334,7 @@ Voici les trois points les plus importants à retenir:
 ## Vectorisation  d'un Réseau de Neurones
 
 ![image](images/92.png)
+
+* Ce qui nous donne: 
+  
+![image](images/93.png)
