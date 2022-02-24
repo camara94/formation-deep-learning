@@ -342,3 +342,7 @@ Voici les trois points les plus importants à retenir:
 * L'avantage de cette technique, c'est ce que si vous voulez rajouter un autre neurone à votre couche, alors tout ce que vous avez à faire est d'ajouter une autre colonne à votre matrice W et un paramètre de biais b à votre matrice B et par le calcule matriciel vous obtiendrez une matrice m*(n+1) automatiquement.
 
 ![image](images/94.png)
+
+* Parfois il arrive qu'on trouve dans certains documents, la matrice X transposée ou renversée pourque celle-ci soit compatible à nos dimensions dans nos équations, mais cela n'a aucune influence sur les résultats de nos calcules.
+
+![image](images/95.png)
