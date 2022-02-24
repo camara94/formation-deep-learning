@@ -328,3 +328,9 @@ Voici les trois points les plus importants à retenir:
 ## Implementation 
 
 ![image](images/91.png)
+
+* A la place, il faut vectoriser l'ensemble de ses équations par un vecteur.
+
+## Vectorisation  d'un Réseau de Neurones
+
+![image](images/92.png)
