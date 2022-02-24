@@ -388,3 +388,7 @@ Voici les trois points les plus importants à retenir:
  ## Exercice Multi-couches
 
 ![image](images/108.png)
+
+* **Attention**:
+  
+  ![images](images/109.png)
