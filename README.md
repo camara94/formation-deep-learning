@@ -374,3 +374,7 @@ Voici les trois points les plus importants à retenir:
 * Puis pour terminer, onn determine les dérivées partielles de Z par rapport à W et b.
 
 ![image](images/104.png)
+
+* Tout ça là, nous donnes les équations suivantes: 
+
+![image](images/105.png)
