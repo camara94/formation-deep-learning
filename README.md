@@ -363,11 +363,14 @@ Voici les trois points les plus importants à retenir:
 
 ![image](images/101.png)
 
-* On determine la dérivée partielle de L par rapport A
+* On determine la dérivée partielle de L par rapport à A
   
   ![image](images/102.png)
 
-* On determine la dérivée partielle de A par rapport Z
+* On determine la dérivée partielle de A par rapport à Z
 
 ![image](images/103.png)
-  
+
+* Puis pour terminer, onn determine les dérivées partielles de Z par rapport à W et b.
+
+![image](images/104.png)
