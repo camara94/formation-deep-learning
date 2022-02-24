@@ -346,3 +346,5 @@ Voici les trois points les plus importants à retenir:
 * Parfois il arrive qu'on trouve dans certains documents, la matrice X transposée ou renversée pourque celle-ci soit compatible à nos dimensions dans nos équations, mais cela n'a aucune influence sur les résultats de nos calcules.
 
 ![image](images/95.png)
+
+![image](images/96.png)
