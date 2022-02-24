@@ -378,3 +378,7 @@ Voici les trois points les plus importants à retenir:
 * Tout ça là, nous donnes les équations suivantes: 
 
 ![image](images/105.png)
+
+* Mais on peut les simplifier pour obtenir les équations suivantes: 
+
+ ![image](images/106.png)
