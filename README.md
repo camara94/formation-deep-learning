@@ -295,3 +295,8 @@ Pour développer notre modèle, nous allons partir d'un dataset de 100 ligne de 
 ## Réseau de Neurones multi-couches
 
 ![image](images/84.png)
+
+## Comment Construire un Réseau de Neurones
+Pour créer un réseau de neurones, nous allons ajouter un second neurone à côté de celui que nous avons crée précedemment.
+
+![image](images/85.png)
