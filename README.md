@@ -300,3 +300,7 @@ Pour développer notre modèle, nous allons partir d'un dataset de 100 ligne de 
 Pour créer un réseau de neurones, nous allons ajouter un second neurone à côté de celui que nous avons crée précedemment.
 
 ![image](images/85.png)
+
+## Les Equations des Réseaux de Neurones
+
+![image](images/86.png)
