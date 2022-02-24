@@ -291,3 +291,5 @@ Pour développer notre modèle, nous allons partir d'un dataset de 100 ligne de 
 ### Process de Travail en Python
 
 ![image](images/83.png)
+
+## Réseau de Neurones multi-couches
