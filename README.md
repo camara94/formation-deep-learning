@@ -318,3 +318,9 @@ Pour créer un réseau de neurones, nous allons ajouter un second neurone à cô
 On  peut construire autant de couches que l'on desire dont chaque couche est constituée de plusieurs neurones d'où le nom **Deep Learning**
 
 ![image](images/89.pngs)
+
+## Résumé de Réseaux de neurones Multi-couches 
+
+Voici les trois points les plus importants à retenir:
+
+![image](images/90.png)
