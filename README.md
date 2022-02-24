@@ -361,7 +361,7 @@ Voici les trois points les plus importants à retenir:
 
 ![image](images/100.png)
 
-![image](images/101.png)
+![image](images/107.png)
 
 * On determine la dérivée partielle de L par rapport à A
   
@@ -382,3 +382,9 @@ Voici les trois points les plus importants à retenir:
 * Mais on peut les simplifier pour obtenir les équations suivantes: 
 
  ![image](images/106.png)
+
+ [image](images/107.png)
+
+ ## Exercice Multi-couches
+
+![image](images/108.png)
