@@ -308,4 +308,9 @@ Pour créer un réseau de neurones, nous allons ajouter un second neurone à cô
 ## Deuxième Couche
 
 ![image](images/87.png)
-=======
+
+* Si on veut ajouter autant de couches, on aura ce forme:
+
+ ![image](images/88.png)
+  
+  
