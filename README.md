@@ -352,3 +352,5 @@ Voici les trois points les plus importants à retenir:
 ## Résumé de la Vectorisation 
 
 ![image](images/97.png)
+
+![image](images/98.png)
