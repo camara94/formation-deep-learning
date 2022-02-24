@@ -304,3 +304,7 @@ Pour créer un réseau de neurones, nous allons ajouter un second neurone à cô
 ## Les Equations des Réseaux de Neurones
 
 ![image](images/86.png)
+
+## Deuxième Couche
+
+![image](images/87.png)
